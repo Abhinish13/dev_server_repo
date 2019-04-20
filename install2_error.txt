@@ -1,0 +1,343 @@
+[1mdpkg-deb:[0m [1;31merror:[0m 'download.sh' is not a Debian format archive
+[1mdpkg:[0m error processing archive download.sh (--install):
+ dpkg-deb --control subprocess returned error exit status 2
+[1mdpkg-deb:[0m [1;31merror:[0m 'errors.txt' is not a Debian format archive
+[1mdpkg:[0m error processing archive errors.txt (--install):
+ dpkg-deb --control subprocess returned error exit status 2
+[1mdpkg-deb:[0m [1;31merror:[0m 'install2_error.txt' is not a Debian format archive
+[1mdpkg:[0m error processing archive install2_error.txt (--install):
+ dpkg-deb --control subprocess returned error exit status 2
+[1mdpkg-deb:[0m [1;31merror:[0m 'install_error.txt' is not a Debian format archive
+[1mdpkg:[0m error processing archive install_error.txt (--install):
+ dpkg-deb --control subprocess returned error exit status 2
+[1mdpkg-deb:[0m [1;31merror:[0m 'packages_list' is not a Debian format archive
+[1mdpkg:[0m error processing archive packages_list (--install):
+ dpkg-deb --control subprocess returned error exit status 2
+[1mdpkg-deb:[0m [1;31merror:[0m 'README.md' is not a Debian format archive
+[1mdpkg:[0m error processing archive README.md (--install):
+ dpkg-deb --control subprocess returned error exit status 2
+[1mdpkg:[0m dependency problems prevent configuration of guacamole:
+ guacamole depends on guacd; however:
+  Package guacd is not configured yet.
+ guacamole depends on libcommons-codec-java; however:
+  Package libcommons-codec-java is not configured yet.
+ guacamole depends on libguava-java; however:
+  Package libguava-java is not configured yet.
+ guacamole depends on libguice-java; however:
+  Package libguice-java is not configured yet.
+ guacamole depends on libjackson-json-java; however:
+  Package libjackson-json-java is not configured yet.
+ guacamole depends on libjersey1-core-java; however:
+  Package libjersey1-core-java is not configured yet.
+ guacamole depends on libjersey1-guice-java; however:
+  Package libjersey1-guice-java is not configured yet.
+ guacamole depends on libjersey1-json-java; however:
+  Package libjersey1-json-java is not configured yet.
+ guacamole depends on libjersey1-server-java; however:
+  Package libjersey1-server-java is not configured yet.
+ guacamole depends on liblogback-java; however:
+  Package liblogback-java is not configured yet.
+ guacamole depends on libservlet3.1-java; however:
+  Package libservlet3.1-java is not configured yet.
+  Package libservlet3.1-java which provides libservlet3.1-java is not configured yet.
+ guacamole depends on tomcat8; however:
+  Package tomcat8 is not configured yet.
+
+[1mdpkg:[0m error processing package guacamole (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libcairo2-dev:amd64:
+ libcairo2-dev:amd64 depends on libcairo-script-interpreter2 (= 1.15.10-2ubuntu0.1); however:
+  Package libcairo-script-interpreter2 is not installed.
+ libcairo2-dev:amd64 depends on libfontconfig1-dev (>= 2.2.95); however:
+  Package libfontconfig1-dev:amd64 is not configured yet.
+ libcairo2-dev:amd64 depends on libfreetype6-dev (>= 2.1.10); however:
+  Package libfreetype6-dev is not installed.
+ libcairo2-dev:amd64 depends on libx11-dev; however:
+  Package libx11-dev:amd64 is not configured yet.
+ libcairo2-dev:amd64 depends on libxrender-dev (>= 0.6); however:
+  Package libxrender-dev is not installed.
+ libcairo2-dev:amd64 depends on libxext-dev; however:
+  Package libxext-dev:amd64 is not configured yet.
+ libcairo2-dev:amd64 depends on libsm-dev; however:
+  Package libsm-dev is not installed.
+ libcairo2-dev:amd64 depends on libpixman-1-dev (>= 0.22.0); however:
+  Package libpixman-1-dev is not installed.
+ libcairo2-dev:amd64 depends on libxcb1-dev (>= 1.6); however:
+  Package libxcb1-dev:amd64 is not configured yet.
+ libcairo2-dev:amd64 depends on libxcb-render0-dev (>= 1.6); however:
+  Package libxcb-render0-dev is not installed.
+ libcairo2-dev:amd64 depends on libxcb-shm0-dev; however:
+  Package libxcb-shm0-dev is not installed.
+ libcairo2-dev:amd64 depends on libglib2.0-dev; however:
+  Package libglib2.0-dev:amd64 is not configured yet.
+
+[1mdpkg:[0m error processing package libcairo2-dev:amd64 (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libfreerdp-dev:amd64:
+ libfreerdp-dev:amd64 depends on libwinpr-dev (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libwinpr-dev is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-cache1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-cache1.1 is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-client1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-client1.1 is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-codec1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-codec1.1 is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-common1.1.0 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-common1.1.0 is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-core1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-core1.1 is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-crypto1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-crypto1.1 is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-gdi1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-gdi1.1 is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-locale1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-locale1.1 is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-primitives1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-primitives1.1 is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-rail1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-rail1.1 is not installed.
+ libfreerdp-dev:amd64 depends on libfreerdp-utils1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libfreerdp-utils1.1 is not installed.
+ libfreerdp-dev:amd64 depends on libxfreerdp-client1.1 (= 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1); however:
+  Package libxfreerdp-client1.1 is not installed.
+
+[1mdpkg:[0m error processing package libfreerdp-dev:amd64 (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libjpeg62-dev:amd64:
+ libjpeg62-dev:amd64 depends on libjpeg62 (= 1:6b2-3); however:
+  Package libjpeg62 is not installed.
+ libjpeg62-dev:amd64 depends on libc-dev; however:
+  Package libc-dev is not installed.
+  Package libc6-dev:amd64 which provides libc-dev is not configured yet.
+
+[1mdpkg:[0m error processing package libjpeg62-dev:amd64 (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libossp-uuid-dev:amd64:
+ libossp-uuid-dev:amd64 depends on libossp-uuid16 (= 1.6.2-1.5build4); however:
+  Package libossp-uuid16 is not installed.
+
+[1mdpkg:[0m error processing package libossp-uuid-dev:amd64 (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libpango1.0-dev:
+ libpango1.0-dev depends on libcairo2-dev (>= 1.12.10); however:
+  Package libcairo2-dev:amd64 is not configured yet.
+ libpango1.0-dev depends on libfontconfig1-dev (>= 2.10.91); however:
+  Package libfontconfig1-dev:amd64 is not configured yet.
+ libpango1.0-dev depends on libfreetype6-dev; however:
+  Package libfreetype6-dev is not installed.
+ libpango1.0-dev depends on libglib2.0-dev (>= 2.34.0); however:
+  Package libglib2.0-dev:amd64 is not configured yet.
+ libpango1.0-dev depends on libharfbuzz-dev (>= 0.9.9); however:
+  Package libharfbuzz-dev is not installed.
+ libpango1.0-dev depends on libx11-dev; however:
+  Package libx11-dev:amd64 is not configured yet.
+ libpango1.0-dev depends on libxft-dev; however:
+  Package libxft-dev is not installed.
+ libpango1.0-dev depends on libxrender-dev; however:
+  Package libxrender-dev is not installed.
+ libpango1.0-dev depends on pkg-config; however:
+  Package pkg-config is not configured yet.
+
+[1mdpkg:[0m error processing package libpango1.0-dev (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libpng-dev:amd64:
+ libpng-dev:amd64 depends on zlib1g-dev; however:
+  Package zlib1g-dev:amd64 is not configured yet.
+
+[1mdpkg:[0m error processing package libpng-dev:amd64 (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libssh2-1-dev:amd64:
+ libssh2-1-dev:amd64 depends on libgcrypt20-dev; however:
+  Package libgcrypt20-dev is not installed.
+
+[1mdpkg:[0m error processing package libssh2-1-dev:amd64 (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libssh-dev:
+ libssh-dev depends on libssh-4 (= 0.8.0~20170825.94fa1e38-1ubuntu0.2); however:
+  Package libssh-4 is not installed.
+ libssh-dev depends on zlib1g-dev; however:
+  Package zlib1g-dev:amd64 is not configured yet.
+
+[1mdpkg:[0m error processing package libssh-dev (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libx11-6:amd64:
+ libx11-6:amd64 depends on libxcb1 (>= 1.11.1); however:
+  Package libxcb1:amd64 is not configured yet.
+
+[1mdpkg:[0m error processing package libx11-6:amd64 (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libxfixes3:amd64:
+ libxfixes3:amd64 depends on libx11-6 (>= 2:1.6.0); however:
+  Package libx11-6:amd64 is not configured yet.
+
+[1mdpkg:[0m error processing package libxfixes3:amd64 (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of libxrandr2:amd64:
+ libxrandr2:amd64 depends on libx11-6 (>= 2:1.6.0); however:
+  Package libx11-6:amd64 is not configured yet.
+
+[1mdpkg:[0m error processing package libxrandr2:amd64 (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of monkeysphere:
+ monkeysphere depends on gnupg; however:
+  Package gnupg is not configured yet.
+ monkeysphere depends on libcrypt-openssl-rsa-perl; however:
+  Package libcrypt-openssl-rsa-perl is not installed.
+ monkeysphere depends on lockfile-progs | procmail; however:
+  Package lockfile-progs is not installed.
+  Package procmail is not installed.
+
+[1mdpkg:[0m error processing package monkeysphere (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of python3.6-doc:
+ python3.6-doc depends on libjs-underscore; however:
+  Package libjs-underscore is not installed.
+
+[1mdpkg:[0m error processing package python3.6-doc (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of rssh:
+ rssh depends on openssh-server; however:
+  Package openssh-server:i386 is not configured yet.
+
+[1mdpkg:[0m error processing package rssh (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of ssh-askpass:
+ ssh-askpass depends on libx11-6; however:
+  Package libx11-6:amd64 is not configured yet.
+
+[1mdpkg:[0m error processing package ssh-askpass (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of ssh-import-id:
+ ssh-import-id depends on python3-requests (>= 1.1.0); however:
+  Package python3-requests is not configured yet.
+ ssh-import-id depends on wget; however:
+  Package wget is not configured yet.
+ ssh-import-id depends on python3:any (>= 3.3.2-2~); however:
+  Package python3 is not configured yet.
+
+[1mdpkg:[0m error processing package ssh-import-id (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of tomcat7:
+ tomcat7 depends on tomcat7-common (>= 7.0.52-1ubuntu0.16); however:
+  Package tomcat7-common is not installed.
+
+[1mdpkg:[0m error processing package tomcat7 (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of tomcat7-admin:
+ tomcat7-admin depends on tomcat7-common (>= 7.0.52-1ubuntu0.16); however:
+  Package tomcat7-common is not installed.
+
+[1mdpkg:[0m error processing package tomcat7-admin (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of tomcat7-user:
+ tomcat7-user depends on tomcat7-common (>= 7.0.52-1ubuntu0.16); however:
+  Package tomcat7-common is not installed.
+
+[1mdpkg:[0m error processing package tomcat7-user (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of ucf:
+ ucf depends on sensible-utils; however:
+  Package sensible-utils is not configured yet.
+
+[1mdpkg:[0m error processing package ucf (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of ufw:
+ ufw depends on ucf; however:
+  Package ucf is not configured yet.
+ ufw depends on python3:any (>= 3.3.2-2~); however:
+  Package python3 is not configured yet.
+
+[1mdpkg:[0m error processing package ufw (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of xauth:
+ xauth depends on libx11-6; however:
+  Package libx11-6:amd64 is not configured yet.
+
+[1mdpkg:[0m error processing package xauth (--install):
+ dependency problems - leaving unconfigured
+[1mdpkg:[0m dependency problems prevent configuration of xrdp-pulseaudio-installer:
+ xrdp-pulseaudio-installer depends on build-essential; however:
+  Package build-essential is not configured yet.
+ xrdp-pulseaudio-installer depends on devscripts; however:
+  Package devscripts is not configured yet.
+ xrdp-pulseaudio-installer depends on pulseaudio; however:
+  Package pulseaudio is not configured yet.
+ xrdp-pulseaudio-installer depends on intltool; however:
+  Package intltool is not configured yet.
+ xrdp-pulseaudio-installer depends on libasound2-dev (>= 1.0.24); however:
+  Package libasound2-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libasyncns-dev; however:
+  Package libasyncns-dev is not configured yet.
+ xrdp-pulseaudio-installer depends on libavahi-client-dev; however:
+  Package libavahi-client-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libbluetooth-dev (>= 4.99); however:
+  Package libbluetooth-dev is not configured yet.
+ xrdp-pulseaudio-installer depends on libfftw3-dev; however:
+  Package libfftw3-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libgconf2-dev; however:
+  Package libgconf2-dev is not configured yet.
+ xrdp-pulseaudio-installer depends on libglib2.0-dev; however:
+  Package libglib2.0-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libgtk-3-dev; however:
+  Package libgtk-3-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libice-dev; however:
+  Package libice-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libjack-dev; however:
+  Package libjack-dev is not configured yet.
+ xrdp-pulseaudio-installer depends on liblircclient-dev; however:
+  Package liblircclient-dev is not configured yet.
+  Package liblirc-dev:amd64 which provides liblircclient-dev is not configured yet.
+ xrdp-pulseaudio-installer depends on liborc-0.4-dev (>= 1:0.4.11); however:
+  Package liborc-0.4-dev is not configured yet.
+ xrdp-pulseaudio-installer depends on libsamplerate0-dev; however:
+  Package libsamplerate0-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libsndfile1-dev (>= 1.0.20); however:
+  Package libsndfile1-dev is not configured yet.
+ xrdp-pulseaudio-installer depends on libsoxr-dev (>= 0.1.1); however:
+  Package libsoxr-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libtdb-dev; however:
+  Package libtdb-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libwebrtc-audio-processing-dev (>= 0.2); however:
+  Package libwebrtc-audio-processing-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libwrap0-dev; however:
+  Package libwrap0-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libx11-xcb-dev; however:
+  Package libx11-xcb-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libxcb1-dev (>= 1.6); however:
+  Package libxcb1-dev:amd64 is not configured yet.
+ xrdp-pulseaudio-installer depends on libxtst-dev; however:
+  Package libxtst-dev:amd64 is not configured yet.
+
+[1mdpkg:[0m error processing package xrdp-pulseaudio-installer (--install):
+ dependency problems - leaving unconfigured
+Errors were encountered while processing:
+ download.sh
+ errors.txt
+ install2_error.txt
+ install_error.txt
+ packages_list
+ README.md
+ guacamole
+ libcairo2-dev:amd64
+ libfreerdp-dev:amd64
+ libjpeg62-dev:amd64
+ libossp-uuid-dev:amd64
+ libpango1.0-dev
+ libpng-dev:amd64
+ libssh2-1-dev:amd64
+ libssh-dev
+ libx11-6:amd64
+ libxfixes3:amd64
+ libxrandr2:amd64
+ monkeysphere
+ python3.6-doc
+ rssh
+ ssh-askpass
+ ssh-import-id
+ tomcat7
+ tomcat7-admin
+ tomcat7-user
+ ucf
+ ufw
+ xauth
+ xrdp-pulseaudio-installer

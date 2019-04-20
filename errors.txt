@@ -14,3 +14,253 @@ W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/d
 W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/xorgxrdp_0.9.5-2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
 W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/guacamole_0.9.9+dfsg-1_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
 W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/xrdp-pulseaudio-installer_0.9.5-2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libcairo2_1.15.10-2ubuntu0.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libcairo-gobject2_1.15.10-2ubuntu0.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libcairo-script-interpreter2_1.15.10-2ubuntu0.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfontconfig1-dev_2.12.6-0ubuntu2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreetype6-dev_2.8.1-2ubuntu2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libx11-dev_2%3a1.6.4-3ubuntu0.2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxrender-dev_1%3a0.9.10-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxext-dev_2%3a1.3.3-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libsm-dev_2%3a1.2.2-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libpixman-1-dev_0.34.0-2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxcb1-dev_1.13-2~ubuntu18.04_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxcb-render0-dev_1.13-2~ubuntu18.04_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxcb-shm0-dev_1.13-2~ubuntu18.04_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libglib2.0-dev_2.56.3-0ubuntu0.18.04.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libcairo2-doc_1.15.10-2ubuntu0.1_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libwinpr-dev_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-cache1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-client1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-codec1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/f/freerdp/libfreerdp-codec1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb  Cannot initiate the connection to archive.ubuntu.com:80 (2001:67c:1360:8001::17). - connect (101: Network is unreachable) Cannot initiate the connection to archive.ubuntu.com:80 (91.189.91.23). - connect (101: Network is unreachable) Cannot initiate the connection to archive.ubuntu.com:80 (2001:67c:1560:8001::14). - connect (101: Network is unreachable) Cannot initiate the connection to archive.ubuntu.com:80 (91.189.88.149). - connect (101: Network is unreachable) Cannot initiate the connection to archive.ubuntu.com:80 (2001:67c:1560:8001::11). - connect (101: Network is unreachable) Cannot initiate the connection to archive.ubuntu.com:80 (91.189.88.161). - connect (101: Network is unreachable) Cannot initiate the connection to archive.ubuntu.com:80 (2001:67c:1360:8001::21). - connect (101: Network is unreachable) Cannot initiate the connection to archive.ubuntu.com:80 (91.189.88.162). - connect (101: Network is unreachable) Cannot initiate the connection to archive.ubuntu.com:80 (91.189.88.152). - connect (101: Network is unreachable) [IP: 2001:67c:1360:8001::17 80]
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-common1.1.0_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/f/freerdp/libfreerdp-common1.1.0_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-core1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/f/freerdp/libfreerdp-core1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-crypto1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/f/freerdp/libfreerdp-crypto1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-gdi1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/f/freerdp/libfreerdp-gdi1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-locale1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/f/freerdp/libfreerdp-locale1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-primitives1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/f/freerdp/libfreerdp-primitives1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-rail1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/f/freerdp/libfreerdp-rail1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfreerdp-utils1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/f/freerdp/libfreerdp-utils1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxfreerdp-client1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/f/freerdp/libxfreerdp-client1.1_1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libjpeg62_1%3a6b2-3_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/libj/libjpeg6b/libjpeg62_6b2-3_amd64.deb  Could not resolve 'archive.ubuntu.com'
+E: Can't select candidate version from package libc-dev as it has no candidate
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libossp-uuid16_1.6.2-1.5build4_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/o/ossp-uuid/libossp-uuid16_1.6.2-1.5build4_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/gir1.2-pango-1.0_1.40.14-1ubuntu0.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/p/pango1.0/gir1.2-pango-1.0_1.40.14-1ubuntu0.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libharfbuzz-dev_1.7.2-1ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/h/harfbuzz/libharfbuzz-dev_1.7.2-1ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libpango-1.0-0_1.40.14-1ubuntu0.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/p/pango1.0/libpango-1.0-0_1.40.14-1ubuntu0.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libpangocairo-1.0-0_1.40.14-1ubuntu0.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/p/pango1.0/libpangocairo-1.0-0_1.40.14-1ubuntu0.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libpangoft2-1.0-0_1.40.14-1ubuntu0.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/p/pango1.0/libpangoft2-1.0-0_1.40.14-1ubuntu0.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libpangoxft-1.0-0_1.40.14-1ubuntu0.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/p/pango1.0/libpangoxft-1.0-0_1.40.14-1ubuntu0.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxft-dev_2.3.2-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/x/xft/libxft-dev_2.3.2-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/pkg-config_0.29.1-0ubuntu2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/p/pkg-config/pkg-config_0.29.1-0ubuntu2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfontconfig1_2.12.6-0ubuntu2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/f/fontconfig/libfontconfig1_2.12.6-0ubuntu2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libglib2.0-0_2.56.3-0ubuntu0.18.04.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/g/glib2.0/libglib2.0-0_2.56.3-0ubuntu0.18.04.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxft2_2.3.2-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/x/xft/libxft2_2.3.2-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/debhelper_11.1.6ubuntu2_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/d/debhelper/debhelper_11.1.6ubuntu2_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/imagemagick_8%3a6.9.7.4+dfsg-16ubuntu6.4_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/i/imagemagick/imagemagick_6.9.7.4+dfsg-16ubuntu6.4_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libpango1.0-doc_1.40.14-1ubuntu0.1_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/p/pango1.0/libpango1.0-doc_1.40.14-1ubuntu0.1_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libpng16-16_1.6.34-1ubuntu0.18.04.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/libp/libpng1.6/libpng16-16_1.6.34-1ubuntu0.18.04.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/zlib1g-dev_1%3a1.2.11.dfsg-0ubuntu2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/z/zlib/zlib1g-dev_1.2.11.dfsg-0ubuntu2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libpng-tools_1.6.34-1ubuntu0.18.04.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/libp/libpng1.6/libpng-tools_1.6.34-1ubuntu0.18.04.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libssh2-1_1.8.0-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/libs/libssh2/libssh2-1_1.8.0-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libgcrypt20-dev_1.8.1-4ubuntu1.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/libg/libgcrypt20/libgcrypt20-dev_1.8.1-4ubuntu1.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libssh-4_0.8.0~20170825.94fa1e38-1ubuntu0.2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/libs/libssh/libssh-4_0.8.0~20170825.94fa1e38-1ubuntu0.2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libssl-dev_1.1.0g-2ubuntu4.3_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/o/openssl/libssl-dev_1.1.0g-2ubuntu4.3_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/zlib1g-dev_1%3a1.2.11.dfsg-0ubuntu2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/z/zlib/zlib1g-dev_1.2.11.dfsg-0ubuntu2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libssh-doc_0.8.0~20170825.94fa1e38-1ubuntu0.2_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/libs/libssh/libssh-doc_0.8.0~20170825.94fa1e38-1ubuntu0.2_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxcb1_1.13-2~ubuntu18.04_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libx/libxcb/libxcb1_1.13-2~ubuntu18.04_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libx11-data_2%3a1.6.4-3ubuntu0.2_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libx/libx11/libx11-data_1.6.4-3ubuntu0.2_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxext6_2%3a1.3.3-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libx/libxext/libxext6_1.3.3-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxrender1_1%3a0.9.10-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libx/libxrender/libxrender1_0.9.10-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/gnupg_2.2.4-1ubuntu1.2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/g/gnupg2/gnupg_2.2.4-1ubuntu1.2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libcrypt-openssl-rsa-perl_0.28-5build2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libc/libcrypt-openssl-rsa-perl/libcrypt-openssl-rsa-perl_0.28-5build2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libdigest-sha-perl_6.01-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/libd/libdigest-sha-perl/libdigest-sha-perl_6.01-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/lockfile-progs_0.1.17build1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/l/lockfile-progs/lockfile-progs_0.1.17build1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/procmail_3.22-26_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/p/procmail/procmail_3.22-26_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/agent-transfer_0.41-1ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/m/monkeysphere/agent-transfer_0.41-1ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+E: Can't select candidate version from package cron-daemon as it has no candidate
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/netcat-openbsd_1.187-1ubuntu0.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/n/netcat-openbsd/netcat-openbsd_1.187-1ubuntu0.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/netcat_1.10-41.1_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/n/netcat/netcat_1.10-41.1_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/socat_1.7.3.2-2ubuntu2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/s/socat/socat_1.7.3.2-2ubuntu2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/openssh-client_1%3a7.6p1-4ubuntu0.3_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/o/openssh/openssh-client_7.6p1-4ubuntu0.3_amd64.deb  Could not resolve 'archive.ubuntu.com'
+E: Can't select candidate version from package monkeysphere-validation-agent as it has no candidate
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libjs-jquery_3.2.1-1_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/j/jquery/libjs-jquery_3.2.1-1_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libjs-underscore_1.8.3~dfsg-1_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/u/underscore/libjs-underscore_1.8.3~dfsg-1_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/openssh-server_1%3a7.6p1-4ubuntu0.3_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/o/openssh/openssh-server_7.6p1-4ubuntu0.3_amd64.deb  Could not resolve 'archive.ubuntu.com'
+E: Can't select candidate version from package debconf-2.0 as it has no candidate
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/cvs_2%3a1.12.13+real-26_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/c/cvs/cvs_1.12.13+real-26_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/makejail_0.0.5-10_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/m/makejail/makejail_0.0.5-10_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/rdist_6.1.5-19_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/r/rdist/rdist_6.1.5-19_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/rsync_3.1.2-2.1ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/r/rsync/rsync_3.1.2-2.1ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/subversion_1.9.7-4ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/s/subversion/subversion_1.9.7-4ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxt6_1%3a1.1.5-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libx/libxt/libxt6_1.1.5-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/ca-certificates_20180409_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/c/ca-certificates/ca-certificates_20180409_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/openssh-client_1%3a7.6p1-4ubuntu0.3_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/o/openssh/openssh-client_7.6p1-4ubuntu0.3_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/python3-requests_2.18.4-2ubuntu0.1_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/r/requests/python3-requests_2.18.4-2ubuntu0.1_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/wget_1.19.4-1ubuntu2.2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/w/wget/wget_1.19.4-1ubuntu2.2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/python3_3.6.7-1~18.04_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/p/python3-defaults/python3_3.6.7-1~18.04_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/openssh-server_1%3a7.6p1-4ubuntu0.3_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/o/openssh/openssh-server_7.6p1-4ubuntu0.3_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/tomcat7-common_7.0.52-1ubuntu0.16_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/t/tomcat7/tomcat7-common_7.0.52-1ubuntu0.16_all.deb  Could not resolve 'security.ubuntu.com'
+E: Can't select candidate version from package debconf-2.0 as it has no candidate
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/authbind_2.1.2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/a/authbind/authbind_2.1.2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/tomcat7-docs_7.0.52-1ubuntu0.16_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/t/tomcat7/tomcat7-docs_7.0.52-1ubuntu0.16_all.deb  Could not resolve 'security.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/tomcat7-examples_7.0.52-1ubuntu0.16_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/t/tomcat7/tomcat7-examples_7.0.52-1ubuntu0.16_all.deb  Could not resolve 'security.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libtcnative-1_1.2.21-1~18.04.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/universe/t/tomcat-native/libtcnative-1_1.2.21-1~18.04.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/tomcat7-common_7.0.52-1ubuntu0.16_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/t/tomcat7/tomcat7-common_7.0.52-1ubuntu0.16_all.deb  Could not resolve 'security.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/tomcat7-common_7.0.52-1ubuntu0.16_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/t/tomcat7/tomcat7-common_7.0.52-1ubuntu0.16_all.deb  Could not resolve 'security.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/netcat_1.10-41.1_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/n/netcat/netcat_1.10-41.1_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/tomcat7-docs_7.0.52-1ubuntu0.16_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/t/tomcat7/tomcat7-docs_7.0.52-1ubuntu0.16_all.deb  Could not resolve 'security.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/tomcat7-examples_7.0.52-1ubuntu0.16_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/t/tomcat7/tomcat7-examples_7.0.52-1ubuntu0.16_all.deb  Could not resolve 'security.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/coreutils_8.28-1ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/c/coreutils/coreutils_8.28-1ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/sensible-utils_0.0.12_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/s/sensible-utils/sensible-utils_0.0.12_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/iptables_1.6.1-2ubuntu2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/i/iptables/iptables_1.6.1-2ubuntu2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/python3_3.6.7-1~18.04_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/p/python3-defaults/python3_3.6.7-1~18.04_amd64.deb  Could not resolve 'archive.ubuntu.com'
+E: Can't select candidate version from package debconf-2.0 as it has no candidate
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/rsyslog_8.32.0-1ubuntu4_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/r/rsyslog/rsyslog_8.32.0-1ubuntu4_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxau6_1%3a1.0.8-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libx/libxau/libxau6_1.0.8-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxext6_2%3a1.3.3-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libx/libxext/libxext6_1.3.3-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxmuu1_2%3a1.1.2-2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libx/libxmu/libxmuu1_1.1.2-2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/build-essential_12.4ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/b/build-essential/build-essential_12.4ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/devscripts_2.17.12ubuntu1.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/d/devscripts/devscripts_2.17.12ubuntu1.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/pulseaudio_1%3a11.1-1ubuntu7.2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/p/pulseaudio/pulseaudio_11.1-1ubuntu7.2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/intltool_0.51.0-5ubuntu1_all.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/i/intltool/intltool_0.51.0-5ubuntu1_all.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libasound2-dev_1.1.3-5ubuntu0.2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/a/alsa-lib/libasound2-dev_1.1.3-5ubuntu0.2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libasyncns-dev_0.8-6_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/liba/libasyncns/libasyncns-dev_0.8-6_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libavahi-client-dev_0.7-3.1ubuntu1.2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/a/avahi/libavahi-client-dev_0.7-3.1ubuntu1.2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libbluetooth-dev_5.48-0ubuntu3.1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/b/bluez/libbluetooth-dev_5.48-0ubuntu3.1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libsbc-dev_1.3-2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/s/sbc/libsbc-dev_1.3-2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libcap-dev_1%3a2.25-1.2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libc/libcap2/libcap-dev_2.25-1.2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libfftw3-dev_3.3.7-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/f/fftw3/libfftw3-dev_3.3.7-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libgconf2-dev_3.2.6-4ubuntu1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/g/gconf/libgconf2-dev_3.2.6-4ubuntu1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libgtk-3-dev_3.22.30-1ubuntu2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/g/gtk+3.0/libgtk-3-dev_3.22.30-1ubuntu2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libice-dev_2%3a1.0.9-2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libi/libice/libice-dev_1.0.9-2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libjack-dev_1%3a0.125.0-3_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/j/jack-audio-connection-kit/libjack-dev_0.125.0-3_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libjson-c-dev_0.12.1-1.3_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/j/json-c/libjson-c-dev_0.12.1-1.3_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/liblircclient-dev_0.10.0-2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/l/lirc/liblircclient-dev_0.10.0-2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libltdl-dev_2.4.6-2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libt/libtool/libltdl-dev_2.4.6-2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/liborc-0.4-dev_1%3a0.4.28-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/o/orc/liborc-0.4-dev_0.4.28-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libsamplerate0-dev_0.1.9-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libs/libsamplerate/libsamplerate0-dev_0.1.9-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libsndfile1-dev_1.0.28-4_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libs/libsndfile/libsndfile1-dev_1.0.28-4_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libsoxr-dev_0.1.2-3_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/universe/libs/libsoxr/libsoxr-dev_0.1.2-3_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libspeexdsp-dev_1.2~rc1.2-1ubuntu2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/s/speex/libspeexdsp-dev_1.2~rc1.2-1ubuntu2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libssl-dev_1.1.0g-2ubuntu4.3_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/o/openssl/libssl-dev_1.1.0g-2ubuntu4.3_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libsystemd-dev_237-3ubuntu10.20_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/s/systemd/libsystemd-dev_237-3ubuntu10.20_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libtdb-dev_1.3.15-2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/t/tdb/libtdb-dev_1.3.15-2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libudev-dev_237-3ubuntu10.20_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/s/systemd/libudev-dev_237-3ubuntu10.20_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libwebrtc-audio-processing-dev_0.3-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/w/webrtc-audio-processing/libwebrtc-audio-processing-dev_0.3-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libwrap0-dev_7.6.q-27_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/t/tcp-wrappers/libwrap0-dev_7.6.q-27_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libx11-xcb-dev_2%3a1.6.4-3ubuntu0.2_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libx/libx11/libx11-xcb-dev_1.6.4-3ubuntu0.2_amd64.deb  Could not resolve 'archive.ubuntu.com'
+W: Download is performed unsandboxed as root as file '/home/araxrock/Documents/dev_server_repo/libxtst-dev_2%3a1.2.3-1_amd64.deb' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+E: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/libx/libxtst/libxtst-dev_1.2.3-1_amd64.deb  Could not resolve 'archive.ubuntu.com'
